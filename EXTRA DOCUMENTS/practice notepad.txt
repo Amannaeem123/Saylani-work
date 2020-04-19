@@ -1,0 +1,13 @@
+
+<html>
+<head>
+<title>saylani online classes</title>
+<body>
+<h1>CV<\h1>
+<p> <b>name</b> usama sohail
+<b>father name<\b> sohail ahmed
+<b>contact<\b> 03412330465
+<B>class<\b> 12<\p>
+</body>
+</html>
+
