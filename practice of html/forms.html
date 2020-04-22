@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FORMS</title>
+</head>
+
+<body>
+    <fieldset>
+        <legend>USERNAME</legend>
+        <form action="login.html" method="POST">
+            <p>Email Id</p>
+            <input type="text" name="EMAIL ID" required><br>
+            <p>PASSWORD</p>
+            <input type="password" name="password" required><br>
+            <br>
+            <textarea name="comments" cols="30" rows="10" placeholder="enter your comments.....?"></textarea>
+            <input type="submit" name="submit" value="submit">
+        </form>
+    </fieldset> <br><br>
+
+
+    <fieldset>
+        <legend>DETAILS</legend>
+        <form action="login.html" method="post">
+            <p>ENTER YOUR COUNTRY</p>
+            <input type="radio" name="karachi">karachi
+            <input type="radio" name="lahore" checked>lahore
+            <input type="radio" name="hyderabad">hyderabad
+            <input type="radio" name="peshawar">peshawar
+            <br>
+            <p>cell number</p>
+            <input type="text" name="phone number" placeholder="phone number" required>
+            <p>GENDER</p>
+            <input type="checkbox" name="male">male
+            <input type="checkbox" name="female">female <br>
+            <button>upload</button>
+            <br><br>
+            <p>SELECT YOUR PROGRAM</p>
+            <select name="program">
+                <option value="HTML">HTML</option>
+                <option value="css" selected>css</option>
+                <option value="java script">java script</option>
+                <option value="firebox">firebox</option>
+                
+            </select>
+
+
+        </form>
+    </fieldset> <br><br>
+    <fieldset>
+        <legend>image button</legend>
+        <form action="login.html" method="POST">
+            <p>subscribe to our email addresss</p>
+            <input type="text" name="email">
+            <input type="image" src="image.jpeg" alt="nature" width="50" height="60">
+        </form>
+    </fieldset>
+
+
+</body>
+
+</html>
