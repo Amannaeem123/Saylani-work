@@ -1,0 +1,78 @@
+@font-face {
+    font-family: "dancing script regular";
+    src: url("DancingScript-VariableFont_wght.ttf");}
+    h1{
+    
+    text-shadow: 5px 5px 5px red;
+    color: seashell;
+    background-color: rgb(4, 22, 4);
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: dancing script regular;
+    position: fixed;
+    width: 100%;
+    z-index: 20;
+    padding: 30px;
+    margin-top: 20px;
+    text-align: center;
+    border: 20px double blue;
+    border-radius: 10 20 10 20;
+
+}
+h1:first-letter{
+    font-size: 200%;
+}
+p.aman{
+    position: relative;
+    left: 10px;
+    top: 0px;
+    padding: 20px;
+    margin: 10px;
+    background-color: lawngreen;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    z-index: 20;
+border-radius: 10px auto 20px auto;
+
+}
+body{
+    background-image: url("aman.jpg");
+    background-repeat: repeat-y;
+    background-size: 100%;
+    color: mintcream;
+}
+p{
+    border: 20px solid saddlebrown;
+    color: rgb(155, 85, 89);
+    text-indent: 20px;
+    margin: 10px auto 10px 10px;
+    padding: 15px auto 15px auto;
+    line-height: 35px;
+    text-shadow: 20px 20px 30px 30px goldenrod;
+
+
+}
+p:first-letter{
+font-size: 200%;
+}
+#ham{
+    color: hotpink;
+    width: 70px;
+    height: 70px;
+    margin: 100px;
+     background-color: indigo;
+    text-align: center;
+}
+#ham:hover{
+    color: lightblue;
+    background-color: lightgoldenrodyellow;
+    text-decoration: underline;
+    
+}
+#ham:focus{
+    color: yellow;
+    background-color: tomato;
+    text-shadow: 20px auto 20px 20px burlywood;
+}
