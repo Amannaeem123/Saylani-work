@@ -1,0 +1,144 @@
+.box{
+    width:990px;
+    height: 700px;
+    min-height: 600px;
+    max-height: 800px;
+    padding: 20px;
+    margin: -20px -20px -20px -20px;
+} 
+
+
+
+#a{
+    background-color: blue;   
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-top: -30px;
+    margin-bottom: -30px;   
+    
+}
+
+
+
+h1{
+    color: white;
+    padding: 10px 10px 10px 10px;
+    font-size: 50px;
+    text-align: justify;
+    margin-top: 20px;
+}
+
+
+
+p{
+    padding: 0px 0px 9px 800px;
+    color: white; 
+    margin-top: -6px;    
+       
+}
+
+
+
+p.hamza{
+    margin-top: -90px;    
+}
+
+
+
+button:hover{
+    color: yellowgreen;
+    background-color: yellow;
+}
+
+
+
+button:active{
+    color: blue;
+    background-color: rgb(117, 220, 20);
+}
+
+
+
+input:hover{
+    color: yellowgreen;
+    background-color: yellow;
+}
+
+
+
+input:active{
+    color: blue;
+    background-color: rgb(133, 220, 20);
+}
+
+
+#face{
+    background-color: rgb(243, 227, 227);
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-top: -30px;
+    margin-bottom: -30px; 
+    
+    
+    
+    
+    
+       
+}
+p.ned{
+    padding: 0px 0px 0px 800px;
+    color: black;   
+    
+}
+
+
+
+p#aman{
+    color: black;
+    display: inline-block;
+}
+
+
+
+button#h{
+    color: white;
+    background-color: yellowgreen;
+    width: 120px;
+    height: 25px;
+}
+
+
+
+#h:hover{
+    color: aquamarine;
+    background-color: black;
+    display: inline-block;
+}
+
+
+
+h3#shirt{
+    color: black;    
+    padding-left: 10px;
+    padding: 10px 10px 10px 10px;    
+    margin-top: 20px;   
+    display: inline-block;
+}
+
+
+
+h2{
+    padding: 0px 0px 9px 800px;
+    color: black;
+    display: inline-block;
+    margin-top: 20px;   
+}
+
+
+
+
+    
+   
+
+
+    
