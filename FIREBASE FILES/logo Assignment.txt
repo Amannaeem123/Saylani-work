@@ -1,0 +1,5 @@
+NAME:                            Aman Naeem 
+FATHER'S NAME:       Naeem Ahmed
+CLASS:                          1st Year
+ASSIGNMENT:             07
+FIREBASE LINK:         https://assignment-no-06.web.app/
