@@ -1,0 +1,42 @@
+CSS ATTRIBUTES
+1 : font family
+2 : color
+3 : background color
+4 : font style
+5 : font weight
+6 : text align
+7 : text transform
+8 : line height
+9 : letter spacing
+10 : word spacing
+11 : vertical align
+12 : border width
+13 : border color
+14 : border style
+15 : border size
+16 : border height
+17 : border radius
+18 : display
+19 : text shadow
+20 : box shadow
+21 : background image
+22 : padding
+23 : margin
+24 : text decoration
+25 : min width/min height
+26 : max width/max height
+27 : overflow
+28 : visibliity
+29 : border image
+30 : float
+31 : empty cells
+32 : border spacing
+33 : border collapse
+34 : cursor:move/crosshair
+35 : position:relative/absolute
+36 : z-index
+37 : clear:both
+38 : list-style-type
+39 : list-style-position
+40 : list-style-image
+41 : a:hover/visited/active/focus
