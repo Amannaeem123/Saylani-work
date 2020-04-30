@@ -1,0 +1,88 @@
+#file{
+    min-height: 200px;
+    min-width: 980px ;
+
+}
+li{
+    margin-left: 20px;
+    display: inline;
+    text-align: center;
+    font-size: 30px;
+    text-decoration: underline;
+    
+    
+    
+}
+#hamza{
+    background-color: red;
+    height: 90px;
+    width: 90%;
+}
+h1{
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+#hn{
+    background-color: pink;
+    height: 90px;
+    width: 90%;
+}
+#nim{
+    background-color: greenyellow;
+    height: 100px;
+    width: 35%;
+    margin-right: 540px ;
+}
+.NED{
+    text-align: center;
+    
+}
+#NOOR{
+    background-color: greenyellow;
+    height: 100px;
+    width: 80%;
+    margin-right: -600px;
+    margin-bottom: 300px;
+    margin-top: -75px;
+    margin-left: 40px;
+}
+#uni{
+    background-color: aqua;
+    height: 250px;
+    width: 90%;
+    margin-left: 280px;
+    margin-top: -75px;
+}
+#sir{
+    background-color: orange;
+    height: 120px;
+    width: 20%;
+    
+    margin-right: 700px;
+}
+#tea{
+    background-color: orange;
+    height: 120px;
+    width: 20%;
+    
+    margin-right: 280px;
+    margin-top: -148px;
+}
+#miss{
+    background-color: orange;
+    height: 120px;
+    width: 20%;
+    
+    margin-right: -130px;
+    margin-top: -148px;
+}
+#tab{
+    height: 90px;
+    width: 90%;
+    background-color: blue;
+
+}
+p{
+    font-size: 30px;
+}
